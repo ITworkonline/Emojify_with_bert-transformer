@@ -35,7 +35,10 @@ def softmax(x):
 def read_csv(filename = 'data/emojify_data.csv'):
     phrase = []
     emoji = []
-
+    sdvgwuygv
+    sdbxuwydcy
+    csidcgwuyg
+    cbwu
     with open (filename) as csvDataFile:
         csvReader = csv.reader(csvDataFile)
 
